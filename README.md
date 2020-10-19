@@ -10,7 +10,7 @@
 - Define the term "function-level scope"
 - Define the term "scope chain"
 - Define the term "closure"
-
+ 
 ## Introduction
 
 This lab provides a summation of the basics of JavaScript functions. Most of
