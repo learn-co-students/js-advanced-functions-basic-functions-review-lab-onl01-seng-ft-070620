@@ -19,20 +19,6 @@ function wrapAdjective(flair="*") {
   }
 }
 
-// function actionApplyer(int, arr) {
-//   if (!Array.isArray(arr) || !arr.length) {
-//     return int;
-//   }
-//   else {
-//     let x = int
-    
-//     for(let i = 0; i < arr.length; i++) {
-//       x = arr[i](x)
-//     }
-//   }
-//   return x
-// }
-
 let actionApplyer = function(int, arr) {
   let a = int
 
